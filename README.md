@@ -138,7 +138,7 @@ streamlit run app/app.py
 
 ## Author
 
-**Narinderjit Singh**  
+**Dany Djeudeu**  
 Supply Chain Management | Business Intelligence | Forecasting | Decision Support
 
 If you want this repository to function as a strong public portfolio piece, prioritize:
